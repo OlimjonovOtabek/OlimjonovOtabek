@@ -50,5 +50,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 
-  
-  ![snake gif](https://github.com/OlimjonovOtabek/OlimjonovOtabek/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+![snake gif](https://github.com/OlimjonovOtabek/OlimjonovOtabek/blob/output/github-contribution-grid-snake.gif)
+</div>

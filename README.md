@@ -51,5 +51,5 @@
 
 
 ### Look the snake is eating my contributions 🐍
-![snake gif](https://github.com/OlimjonovOtabek/OlimjonovOtabek/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
 

@@ -57,12 +57,12 @@ I contribute to open-source UI libraries and frontend ecosystems when I can, wit
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=OlimjonovOtabek&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
     alt="GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlimjonovOtabek&layout=compact&hide_border=true&theme=transparent"
     alt="Most used languages"
   />
 </div>

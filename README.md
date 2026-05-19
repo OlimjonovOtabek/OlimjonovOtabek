@@ -1,58 +1,54 @@
 <div align="center">
   <h1>Otabek Olimjonov</h1>
-  <p><strong>Software Engineer | Frontend Developer | Full-Stack Developer</strong></p>
-  <p>Building reliable frontend and full-stack systems for real-world, production-grade products.</p>
-
+  <p><strong>Software Engineer</strong></p>
+  <p>Angular-first frontend architecture, realtime systems, maps, and pragmatic full-stack delivery.</p>
   <p>
     <a href="https://www.linkedin.com/in/olimjonov-otabek-7a3032261/">LinkedIn</a>
-    |
+    ·
     <a href="https://t.me/olimjonovh">Telegram</a>
-    |
+    ·
     <a href="mailto:almjnvfsystem@gmail.com">Email</a>
-    |
-    <a href="#">Portfolio</a>
   </p>
 </div>
 
 ---
 
-## About Me
+```ts
+type Focus = 'enterprise frontend' | 'realtime dashboards' | 'geospatial tracking' | 'full-stack delivery';
 
-I am a software engineer focused on frontend architecture, Angular applications, and practical full-stack development. I work on production systems across government, healthcare, education, and dispatching domains, with experience building enterprise interfaces, real-time dashboards, map-based tracking workflows, and maintainable Angular + .NET applications.
+const engineering = {
+  frontend: ['Angular', 'TypeScript', 'RxJS', 'Signals', 'PrimeNG', 'Tailwind CSS'],
+  realtime: ['SignalR', 'WebSocket', 'Yandex Maps v3', 'OpenLayers'],
+  backend: ['.NET', 'ASP.NET', 'Node.js', 'REST APIs'],
+  delivery: ['PostgreSQL', 'Docker', 'CI/CD', 'NGINX']
+};
+```
 
-## Tech Stack
+## What I build
 
-| Area | Technologies |
+I build production interfaces for systems where clarity, reliability, and speed matter: dispatching, healthcare, education, government platforms, realtime dashboards, and map-based tracking workflows.
+
+- Scalable Angular applications with clean component boundaries and maintainable state flow.
+- Realtime operational UIs powered by SignalR, WebSocket streams, and map layers.
+- Full-stack products with typed API contracts, predictable deployment, and pragmatic architecture.
+- Performance-focused interfaces for complex forms, dashboards, filters, tables, and geospatial screens.
+
+## Selected work
+
+| Project | Scope |
 | --- | --- |
-| Frontend | Angular, TypeScript, JavaScript, RxJS, PrimeNG, Tailwind CSS |
-| Backend | .NET, ASP.NET, REST APIs, SignalR, WebSocket |
-| Database | PostgreSQL |
-| DevOps / Tools | Docker, Git, CI/CD, deployment workflows |
-| Maps / Realtime | OpenLayers, Yandex Maps, real-time vehicle tracking, live dashboards |
+| [ymaps3-angular / demo-map](https://github.com/OlimjonovOtabek/demo-map) | Angular standalone wrapper for Yandex Maps v3: SSR-safe loader, layers, markers, geometry, clusterer, controls, and animated polylines. |
+| [gov-directory](https://github.com/OlimjonovOtabek/gov-directory) | Bilingual government organization directory built with Angular 20, Node.js, Express, JWT admin flow, filters, pagination, and CSV export. |
+| [leetcode-ts](https://github.com/OlimjonovOtabek/leetcode-ts) | TypeScript algorithms workspace with topic-based structure, Vitest tests, ESLint, Prettier, and GitHub Actions CI. |
+| [angular-demos](https://github.com/OlimjonovOtabek/angular-demos) | Angular 21 playground for framework experiments, modern CLI workflow, and frontend practice. |
 
-## What I Work On
+## Engineering style
 
-- Real-time dashboards and operational monitoring tools
-- Enterprise UI systems for complex business workflows
-- Angular component architecture and scalable frontend patterns
-- Map-based tracking systems for vehicles, dispatching, and field operations
-- Frontend performance optimization and maintainability improvements
-- Open-source contributions in frontend and UI ecosystems
+Clear boundaries. Typed contracts. Small reusable abstractions. Observable state where it fits. Fast UI feedback. Measurable performance. Simple deployment.
 
-## Featured Highlights
+## Open source direction
 
-- Built and maintained production-scale systems for emergency dispatching, healthcare, education, and government platforms.
-- Worked on real-time ambulance and vehicle tracking using SignalR, WebSocket communication, and map-based interfaces.
-- Improved Angular applications through UI architecture, component modernization, state handling, and performance-focused refactoring.
-- Supported CI/CD, Docker-based deployments, and delivery workflows for full-stack Angular + .NET applications.
-
-## Open Source
-
-I contribute to open-source UI libraries and frontend ecosystems when I can, with a focus on practical improvements, clean implementation details, and maintainable developer experience. I value small, useful contributions that make tools more reliable for real production teams.
-
-## GitHub Stats
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username. -->
+I am focused on Angular, UI infrastructure, developer experience, and practical frontend tooling. I prefer small, correct improvements over noisy changes: better APIs, better accessibility, better maintainability, and fewer surprises for production teams.
 
 <div align="center">
   <img
@@ -66,10 +62,3 @@ I contribute to open-source UI libraries and frontend ecosystems when I can, wit
     alt="Most used languages"
   />
 </div>
-
-## Contact
-
-- LinkedIn: [olimjonov-otabek](https://www.linkedin.com/in/olimjonov-otabek-7a3032261/)
-- Telegram: [@olimjonovh](https://t.me/olimjonovh)
-- Email: [almjnvfsystem@gmail.com](mailto:almjnvfsystem@gmail.com)
-- Portfolio: [Add your portfolio link](#)

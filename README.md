@@ -33,15 +33,6 @@ I build production interfaces for systems where clarity, reliability, and speed 
 - Full-stack products with typed API contracts, predictable deployment, and pragmatic architecture.
 - Performance-focused interfaces for complex forms, dashboards, filters, tables, and geospatial screens.
 
-## Selected work
-
-| Project | Scope |
-| --- | --- |
-| [ymaps3-angular / demo-map](https://github.com/OlimjonovOtabek/demo-map) | Angular standalone wrapper for Yandex Maps v3: SSR-safe loader, layers, markers, geometry, clusterer, controls, and animated polylines. |
-| [gov-directory](https://github.com/OlimjonovOtabek/gov-directory) | Bilingual government organization directory built with Angular 20, Node.js, Express, JWT admin flow, filters, pagination, and CSV export. |
-| [leetcode-ts](https://github.com/OlimjonovOtabek/leetcode-ts) | TypeScript algorithms workspace with topic-based structure, Vitest tests, ESLint, Prettier, and GitHub Actions CI. |
-| [angular-demos](https://github.com/OlimjonovOtabek/angular-demos) | Angular 21 playground for framework experiments, modern CLI workflow, and frontend practice. |
-
 ## Engineering style
 
 Clear boundaries. Typed contracts. Small reusable abstractions. Observable state where it fits. Fast UI feedback. Measurable performance. Simple deployment.

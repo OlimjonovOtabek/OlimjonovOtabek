@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Otabek Olimjonov</h1>
-  <p><strong>Software Engineer</strong></p>
-  <p>Angular-first frontend architecture, realtime systems, maps, and pragmatic full-stack delivery.</p>
+  <p><strong>Software Engineer · Angular / TypeScript / Frontend Architecture</strong></p>
+  <p>I build production Angular systems and contribute fixes to the ecosystem I use.</p>
   <p>
     <a href="https://www.linkedin.com/in/olimjonov-otabek-7a3032261/">LinkedIn</a>
     ·
@@ -14,32 +14,48 @@
 ---
 
 ```ts
-type Focus = 'enterprise frontend' | 'realtime dashboards' | 'geospatial tracking' | 'full-stack delivery';
-
-const engineering = {
-  frontend: ['Angular', 'TypeScript', 'RxJS', 'Signals', 'PrimeNG', 'Tailwind CSS'],
-  realtime: ['SignalR', 'WebSocket', 'Yandex Maps v3', 'OpenLayers'],
-  backend: ['.NET', 'ASP.NET', 'Node.js', 'REST APIs'],
-  delivery: ['PostgreSQL', 'Docker', 'CI/CD', 'NGINX']
+const focus = {
+  ecosystem: ['Angular', 'Angular CLI', 'PrimeNG', 'ngx-formly', 'Zard UI'],
+  frontend: ['TypeScript', 'RxJS', 'Signals', 'Forms', 'Accessibility', 'Performance'],
+  systems: ['Realtime dashboards', 'Geospatial tracking', 'Enterprise workflows'],
+  backend: ['.NET', 'ASP.NET', 'Node.js', 'PostgreSQL', 'Docker']
 };
 ```
 
-## What I build
+## Open source contributions
 
-I build production interfaces for systems where clarity, reliability, and speed matter: dispatching, healthcare, education, government platforms, realtime dashboards, and map-based tracking workflows.
+I contribute to Angular and frontend infrastructure by fixing real production bugs, improving component behavior, adding regression tests, and tightening developer experience.
 
-- Scalable Angular applications with clean component boundaries and maintainable state flow.
-- Realtime operational UIs powered by SignalR, WebSocket streams, and map layers.
-- Full-stack products with typed API contracts, predictable deployment, and pragmatic architecture.
-- Performance-focused interfaces for complex forms, dashboards, filters, tables, and geospatial screens.
+| Ecosystem | Pull requests |
+| --- | --- |
+| Angular | [angular/angular#68428](https://github.com/angular/angular/pull/68428) · docs infrastructure fix for WebContainer session counting after reloads |
+| Angular CLI | [angular-cli#33080](https://github.com/angular/angular-cli/pull/33080) · `ng add` schematic detection after package installation |
+| PrimeNG | [primeng#19583](https://github.com/primefaces/primeng/pull/19583) · TreeTable editable-row keyboard behavior |
+| PrimeNG | [primeng#19550](https://github.com/primefaces/primeng/pull/19550) · Select lazy virtual scroll stability at the bottom of the overlay |
+| PrimeNG | [primeng#19549](https://github.com/primefaces/primeng/pull/19549) · stable menu item rendering with DOM reuse |
+| PrimeNG | [primeng#19564](https://github.com/primefaces/primeng/pull/19564) · DatePicker boundary rebuild optimization |
+| ngx-formly | [ngx-formly#4179](https://github.com/ngx-formly/ngx-formly/pull/4179) · recursive JSON Schema multischema handling |
+| ngx-formly | [ngx-formly#4181](https://github.com/ngx-formly/ngx-formly/pull/4181) · inline template controls model synchronization |
+| Zard UI | [zardui#619](https://github.com/zard-ui/zardui/pull/619) · Breadcrumb composition aligned with shadcn/ui semantics |
+| Zard UI | [zardui#618](https://github.com/zard-ui/zardui/pull/618) · Dropdown Menu alignment with shadcn/ui primitives |
+| Zard UI | [zardui#598](https://github.com/zard-ui/zardui/pull/598) · number support for Angular signal forms in input controls |
+| CodexBar | [CodexBar#850](https://github.com/steipete/CodexBar/pull/850) · macOS menu refresh behavior fix |
+
+## What I care about
+
+- Fixing bugs at the root, not patching symptoms.
+- Regression tests for every behavior change.
+- Accessible component APIs with predictable keyboard and screen-reader behavior.
+- Angular code that is typed, composable, and easy to maintain under scale.
+- UI performance: stable DOM, fewer unnecessary renders, better scroll and overlay behavior.
+
+## Production background
+
+Outside open source, I work on enterprise systems across dispatching, healthcare, education, and government domains: complex Angular applications, realtime dashboards, map-based tracking, large forms, tables, filters, and full-stack delivery workflows.
 
 ## Engineering style
 
-Clear boundaries. Typed contracts. Small reusable abstractions. Observable state where it fits. Fast UI feedback. Measurable performance. Simple deployment.
-
-## Open source direction
-
-I am focused on Angular, UI infrastructure, developer experience, and practical frontend tooling. I prefer small, correct improvements over noisy changes: better APIs, better accessibility, better maintainability, and fewer surprises for production teams.
+Small diffs. Clear contracts. Focused tests. Minimal abstractions. Practical architecture. Production-grade details.
 
 <div align="center">
   <img

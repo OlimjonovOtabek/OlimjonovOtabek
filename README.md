@@ -41,6 +41,12 @@ I contribute to Angular and frontend infrastructure by fixing real production bu
 | Zard UI | [zardui#598](https://github.com/zard-ui/zardui/pull/598) · number support for Angular signal forms in input controls |
 | CodexBar | [CodexBar#850](https://github.com/steipete/CodexBar/pull/850) · macOS menu refresh behavior fix |
 
+## Contribution pattern
+
+```txt
+bug report → root cause → focused fix → regression test → validation notes → maintainable diff
+```
+
 ## What I care about
 
 - Fixing bugs at the root, not patching symptoms.
@@ -56,16 +62,3 @@ Outside open source, I work on enterprise systems across dispatching, healthcare
 ## Engineering style
 
 Small diffs. Clear contracts. Focused tests. Minimal abstractions. Practical architecture. Production-grade details.
-
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=OlimjonovOtabek&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlimjonovOtabek&layout=compact&hide_border=true&theme=transparent"
-    alt="Most used languages"
-  />
-</div>
